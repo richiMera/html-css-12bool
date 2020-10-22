@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: pink;
+  text-align: center;
+}
+
+[class*="col-"] {
+  border: 1px solid black;
+}
+
+p {
+  line-height: 100px;
+}
+
+.nested {
+  background-color: coral;
+  margin: 2px;
+}

@@ -7,7 +7,6 @@
 
 [class*="col-"] {
   float: left;
-  border: 1px solid red;
   height: 100%;
   min-height: 100px;
 }
